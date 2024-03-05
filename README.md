@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Guruvedhnath</h1>
+<h1 align="center">Hi 👋, I'm Guruvedhanth</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 - 🌱 I’m currently learning **DSA**
