@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **Webpages, Applications**
 
-- 🤝 I’m looking for help with **Devops**
-
 - 💬 Ask me about **MERN, Flutter**
 
 - 📫 How to reach me **guruvedhanths@gmail.com**
