@@ -11,7 +11,7 @@ Building end-to-end applications with a strong focus on scalable backend systems
 
 - 💻 Software Product Engineering student with hands-on experience as a **Full Stack Developer**
 - 🧠 Currently strengthening **Data Structures & Algorithms**
-- 🔧 Strong focus on **backend development, API design, and data-driven systems**
+- 🔧 Strong focus on **Backend development, API design, and data-driven systems**
 - 🛠️ Experienced in building **production-grade applications**, dashboards, and automation workflows
 - 🤝 Open to collaborating on **full-stack, backend, and platform-focused projects**
 - 💬 Ask me about **MERN, APIs, Cloud, RASA, Kafka**
